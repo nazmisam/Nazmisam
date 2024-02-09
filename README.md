@@ -12,7 +12,7 @@ Nice to meet you
 <table>
   <td>
     <a href="https://github.com/nazmisam">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nazmisam&show_icons=true&theme=radical&include_all_commits_true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nazmisam&include_all_commits&show_icons=true&theme=radical&include_all_commits_true" />
     </a>
   </td>
   <td>
