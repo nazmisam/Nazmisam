@@ -8,7 +8,7 @@ Nice to meet you
 - 🌱 I’m currently learning both Web Dev Game Dev.
 - 💬 Ask me about everything you interested to ask
 - 📫 How to reach me: m.nazmi124@gmail.com
-- ⚡ Fun fact: I never thought my journey as programmer will be like this xD
+
 
 My current tech stack:
 
